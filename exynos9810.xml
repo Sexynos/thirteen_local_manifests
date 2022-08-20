@@ -13,6 +13,9 @@
   <project name="Sexynos/vendor_samsung_star2lte" path="vendor/samsung/star2lte" revision="twelve" remote="github"/>
   <project name="Sexynos/vendor_samsung_crownlte" path="vendor/samsung/crownlte" revision="twelve" remote="github"/>
 
+  <!-- SLSI -->
+  <project name="Sexynos/device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" revision="thirteen" remote="github"/>
+  
   <!-- Kernel -->
   <project name="Privxynos/exynos9810_decon" path="kernel/samsung/exynos9810" revision="thirteen" remote="github"/>
 
