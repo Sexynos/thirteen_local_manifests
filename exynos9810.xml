@@ -17,6 +17,6 @@
   <project name="Sexynos/device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" revision="thirteen" remote="github"/>
   
   <!-- Kernel -->
-  <project name="Privxynos/exynos9810_decon" path="kernel/samsung/exynos9810" revision="thirteen" remote="github"/>
+  <project name="Privxynos/exynos9810_decon" path="kernel/samsung/exynos9810" revision="thirteen-enf" remote="github"/>
 
 </manifest>
